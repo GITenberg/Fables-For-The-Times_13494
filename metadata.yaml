@@ -1,0 +1,35 @@
+_repo: Fables-For-The-Times_13494
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sullivant, T. S. (Thomas Starling)
+    alias: Sullivant, Thomas Starling
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '33969'
+    url: http://www.gutenberg.org/2009/agents/33969
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillips, Henry Wallace
+    alias: Phillips, H. W. (Henry Wallace)
+    birthdate: 1869
+    deathdate: 1930
+    gutenberg_agent_id: '4260'
+    url: http://www.gutenberg.org/2009/agents/4260
+description: ''
+gutenberg_issued: '2004-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fables, American'
+title: Fables For The Times
+url: http://www.gutenberg.org/ebooks/13494
