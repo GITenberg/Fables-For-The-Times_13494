@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '4260'
     url: http://www.gutenberg.org/2009/agents/4260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13494#Fables-For-The-Times
 gutenberg_issued: '2004-09-18'
 gutenberg_type: Text
 identifiers:
